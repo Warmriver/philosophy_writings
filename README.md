@@ -1,1 +1,3 @@
-# phsolophy_writings
+# phisolophy_writings
+
+To record released writings
